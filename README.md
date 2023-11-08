@@ -1,2 +1,2 @@
-# My-final-exercises-tools-for-data-science-
-Sharing my final exercise solution 
+# Machine learning projects 
+Machine learning projects
